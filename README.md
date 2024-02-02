@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to my Github! This is Dikshita!
+# Hi there 👋 welcome to my Github! This is Dikshita!
 
 ![image](https://camo.githubusercontent.com/9a5d7f21c8f52414f924e2f06a66dbcac8dc394dcbe905ffe5cf12f0c4080b99/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966)
 
