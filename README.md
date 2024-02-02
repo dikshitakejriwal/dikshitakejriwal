@@ -13,7 +13,7 @@ I recently graduated from the Pennsylvania State University with a major in Comp
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can play any sport, and I love traveling, exploring, reading and building things.
 
-## Skills: 
+### Skills: 
 
 Programming Languages: Python | JavaScript | Java | Swift | SQL | CSS | HTML | C | Racket | Verilog <br>
 Frameworks and Technologies: React.js | Flask | MongoDB | Vue.js | Node.js | Apache Spark | Git | Figma
