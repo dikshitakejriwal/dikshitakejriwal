@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome to my Github! This is Dikshita!
 
-![image](https://github.com/dikshitakejriwal/dikshitakejriwal/assets/62951992/708fba2c-ff44-4f3d-9203-73bdcb22283c)
+![image](https://camo.githubusercontent.com/9a5d7f21c8f52414f924e2f06a66dbcac8dc394dcbe905ffe5cf12f0c4080b99/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966)
 
 <!--
 **dikshitakejriwal/dikshitakejriwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
