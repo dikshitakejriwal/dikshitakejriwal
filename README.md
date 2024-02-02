@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 welcome to my Github! This is Dikshita!
+
+![image](https://github.com/dikshitakejriwal/dikshitakejriwal/assets/62951992/708fba2c-ff44-4f3d-9203-73bdcb22283c)
 
 <!--
 **dikshitakejriwal/dikshitakejriwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
