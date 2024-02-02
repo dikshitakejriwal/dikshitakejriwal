@@ -4,7 +4,7 @@
   <img src="https://camo.githubusercontent.com/9a5d7f21c8f52414f924e2f06a66dbcac8dc394dcbe905ffe5cf12f0c4080b99/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a49675866346867624843654b69587076742f67697068792e676966" alt="Your Image Description" width="300" height="300"/>
 </p>
 
-I am a senior at Pennsylvania State University majoring in Computer Science and minoring in Entrepreneurship and Innovation. I am always open for collabs on interesting projects, so feel free to hit me up. Looking for Entry-Level full-time positions starting Feb-2024.
+I recently graduated from the Pennsylvania State University with a major in Computer Science and a minor in Entrepreneurship and Innovation. I am always open for collabs on interesting projects, so feel free to hit me up. Looking for Entry-Level full-time positions starting Feb-2024.
 
 - 🌱 I’m currently learning about AWS and preparing for the AWS certification exam.
 - 👯 I’m looking to collaborate on fun AI projects.
@@ -15,7 +15,7 @@ I am a senior at Pennsylvania State University majoring in Computer Science and 
 
 ## Skills: 
 
-Programming Languages: Python | JavaScript | Java | Swift | SQL | CSS | HTML | C | Racket | Verilog
+Programming Languages: Python | JavaScript | Java | Swift | SQL | CSS | HTML | C | Racket | Verilog <br>
 Frameworks and Technologies: React.js | Flask | MongoDB | Vue.js | Node.js | Apache Spark | Git | Figma
 
 #### Let's Connect!
